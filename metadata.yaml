@@ -1,0 +1,54 @@
+_repo: Lehrbuch-der-Botanik-fur-Hochschulen_63371
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Noll, Fritz
+    birthdate: 1858
+    deathdate: 1908
+    gutenberg_agent_id: '52387'
+    url: http://www.gutenberg.org/2009/agents/52387
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Fritz_Noll
+    - https://en.wikipedia.org/wiki/Fritz_Noll
+  - agent_name: Strasburger, Eduard
+    alias: Strasburger, Edward
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '34331'
+    url: http://www.gutenberg.org/2009/agents/34331
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Eduard_Strasburger
+    - https://de.wikipedia.org/wiki/Eduard_Strasburger
+  - agent_name: Schenck, H. (Heinrich)
+    alias: Schenck, Heinrich
+    birthdate: 1860
+    deathdate: 1927
+    gutenberg_agent_id: '52388'
+    url: http://www.gutenberg.org/2009/agents/52388
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Heinrich_Schenck
+    - https://en.wikipedia.org/wiki/Heinrich_Schenck
+  - agent_name: Schimper, A. F. W. (Andreas Franz Wilhelm)
+    alias: Schimper, Andreas Franz Wilhelm
+    birthdate: 1856
+    deathdate: 1901
+    gutenberg_agent_id: '25982'
+    url: http://www.gutenberg.org/2009/agents/25982
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper
+    - https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper
+description: ''
+gutenberg_issued: '2020-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63371'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Botany -- Textbooks'
+- !lcc 'QK'
+- GITenberg
+title: Lehrbuch der Botanik für Hochschulen
+url: http://www.gutenberg.org/ebooks/63371
