@@ -1,5 +1,8 @@
 _repo: Lehrbuch-der-Botanik-fur-Hochschulen_63371
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63371-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Noll, Fritz
@@ -38,6 +41,8 @@ creator:
     - https://de.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper
     - https://en.wikipedia.org/wiki/Andreas_Franz_Wilhelm_Schimper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63371#Lehrbuch-der-Botanik-fur-Hochschulen
 gutenberg_issued: '2020-10-04'
 gutenberg_type: Text
 identifiers:
